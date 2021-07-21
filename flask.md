@@ -31,12 +31,12 @@ app = Flask(__name__)    #Flask类接收一个参改__name__
 
 # 装饰器的作用是将路由映射到视图函数index
 @app.route("/")         
-def hello_world():      #Flask应用程序实例的run方法启动WEB服务器
+def hello_world():    
     return "<p>Hello, World!</p>"
 
 ````
 
- ![第一个项目](C:\Users\Lenovo\Desktop\第一个项目.jpg)
+ ![第一个项目](C:\Users\Lenovo\Desktop\第一个项目.jpg)（图片在解决等路上！）
 
 ![1626869214943](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1626869214943.png)
 
