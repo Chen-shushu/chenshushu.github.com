@@ -8,7 +8,9 @@
 
   -  可以决定Flask在访问静态文件时查找的路径 
 
-    【这个就类似于Django里面的setting.py里面的要去添加的模块或者静态文件，然后让它识别（图片可以放在静态文件里面，然后输入网址   127.0.0.1:5000/static/img.png  这里面的static就是存放静态文件的地方，同理还有模块templates）】
+    【这个就类似于Django里面的setting.py里面的要去添加的模块或者静态文件，然后让它识别
+    （图片可以放在静态文件里面，然后输入网址   127.0.0.1:5000/static/img.png  
+    这里面的static就是存放静态文件的地方，同理还有模块templates）】
 
 -   static_url_path 
 
